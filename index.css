@@ -54,6 +54,7 @@ section div#head {
     animation-name: head_anim;
     animation-duration: 1s;
     animation-fill-mode: forwards;
+    animation-delay: 0.8s;
 }
 section div#head button {
     width: 130px;
